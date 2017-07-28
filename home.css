@@ -1,0 +1,22 @@
+body {
+	background-color:  #29879B;
+	color: #B21253;
+}
+
+h1 {
+	font-size: 4em;
+	text-decoration: underline;
+	text-align:  center;
+}
+
+.mainText {
+	font-size: 24px;
+	text-align: center;
+	margin: 10px;
+	max-width:  600px;
+}
+
+.leftSide {
+	max-width: 150px;
+	
+}
