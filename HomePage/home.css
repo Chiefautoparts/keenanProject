@@ -1,0 +1,25 @@
+body {
+	background: linear-gradient(to bottom, #959595 0%, #0d0d0d 46%, #010101 50%, #0a0a0a 53%, #4e4e4e 76%, #383838 87%, #1b1b1b 100%);
+	color: #AB3809;
+	margin: 50px;
+	text-align-all: center;
+}
+
+h1 {
+	align-content: center;
+	font-size:  5em;
+	text-align-all: center;
+	margin: auto;
+}
+
+nav ul {
+	background-color: #FFFFFF;
+	height: 35px;
+	padding: 7px;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-top: 5px;
+	margin-left: 9px;
+}
