@@ -23,3 +23,29 @@ nav ul li {
 	margin-top: 5px;
 	margin-left: 9px;
 }
+
+.left #upperLeft {
+	width: 150px;
+	background-color: green;
+}
+
+.left #lowerLeft {
+	width: 150px;
+	background-color: red;
+	margin-top: 20px;
+}
+
+.right #upperRight {
+	width: 150px;
+	background-color: green;
+}
+
+.right #lowerRight {
+	width: 150px;
+	background-color: red;
+	margin-top: 20px;
+}
+
+.center {
+	background-color: purple;
+}
